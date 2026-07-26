@@ -14,11 +14,11 @@ Fast, zero-dependency, 8 byte aligned single-header Arena Allocator library for 
 
 // Anywhere else just include header file
 #include "lnr_arena.h"
+```
 
 ## Example of Usage
 You can find it [here](https://github.com/liner-exe/ArenaAllocator.C/blob/master/example)
 
-```
 ## License
 
 Library is under [MIT](https://github.com/liner-exe/ArenaAllocator.C/blob/master/LICENSE) license
